@@ -1,0 +1,13 @@
+/* SlideBar.css */
+.slide-bar {
+    background-color: #f4f4f4;
+    border-right: 1px solid #ccc; /* Change border-right for left-side positioning */
+    padding: 20px;
+    width: 200px;
+    position: fixed;
+    top: 0;
+    left: 0; /* Position on the left side */
+    bottom: 0;
+    overflow-y: auto;
+  }
+  
